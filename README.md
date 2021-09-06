@@ -7,20 +7,20 @@ Generative Adversarial Networks (GANs) was invented by Ian Goodfellow in 2014 an
 
 ![GANs](https://github.com/Jonashellevang/IE_MBD_2020/blob/master/GANs%20and%20CGANs%20(Tensorflow)/GANs.png)
 
-The topic is described further in the report that you can access by clicking [this link](https://github.com/Jonashellevang/IE_MBD_2020/blob/master/GANs%20and%20CGANs%20(Tensorflow)/GANs%20and%20CGANs%20Report.pdf). Although the results are all in the report, it does not contain the GIFs created. These can be viewed below:
+The topic is described further in the report that you can access by clicking [this link](https://github.com/rbgsng/ML.GANs-CGANs/blob/main/GANs%20and%20CGANs%20Report.pdf). Although the results are all in the report, it does not contain the GIFs created. These can be viewed below:
 
-For the first notebook called "[01_DCGAN_MNIST.ipynb](https://github.com/Jonashellevang/IE_MBD_2020/blob/master/GANs%20and%20CGANs%20(Tensorflow)/01_DCGAN_MNIST.ipynb)" I optained this result for the first 100 Epochs:
+For the first notebook called "[01_DCGAN_MNIST.ipynb](https://github.com/rbgsng/ML.GANs-CGANs/blob/main/01_DCGAN_MNIST.ipynb)" I optained this result for the first 100 Epochs:
 
-![MNIST Numbers](https://github.com/Jonashellevang/IE_MBD_2020/blob/master/GANs%20and%20CGANs%20(Tensorflow)/01_dcgan_100Epochs.gif)
+![MNIST Numbers](https://github.com/rbgsng/ML.GANs-CGANs/blob/main/01_dcgan_100Epochs.gif)
 
-For the second notebook called "[02_DCGAN_CIFAR10.ipynb](https://github.com/Jonashellevang/IE_MBD_2020/blob/master/GANs%20and%20CGANs%20(Tensorflow)/02_DCGAN_CIFAR10.ipynb)" I optained this result for the first 100 Epochs:
+For the second notebook called "[02_DCGAN_CIFAR10.ipynb](https://github.com/rbgsng/ML.GANs-CGANs/blob/main/02_DCGAN_CIFAR10.ipynb)" I optained this result for the first 100 Epochs:
 
-![MNIST CIFAR10](https://github.com/Jonashellevang/IE_MBD_2020/blob/master/GANs%20and%20CGANs%20(Tensorflow)/02_dcgan_100epochs.gif)
+![MNIST CIFAR10](https://github.com/rbgsng/ML.GANs-CGANs/blob/main/02_dcgan_100epochs.gif)
 
 For the 200 next Epochs I obtained this result:
 
-![MNIST CIFAR10](https://github.com/Jonashellevang/IE_MBD_2020/blob/master/GANs%20and%20CGANs%20(Tensorflow)/02_dcgan_Additional200epochs.gif)
+![MNIST CIFAR10](https://github.com/rbgsng/ML.GANs-CGANs/blob/main/02_dcgan_Additional200epochs.gif)
 
-For the third notebook called "[03_CDCGAN_FASSION_MNIST.ipynb](https://github.com/Jonashellevang/IE_MBD_2020/blob/master/GANs%20and%20CGANs%20(Tensorflow)/03_CDCGAN_FASSION_MNIST.ipynb)" I had to make the Conditional Generative Adverserial Net from scratch and obtained this result:
+For the third notebook called "[03_CDCGAN_FASSION_MNIST.ipynb](https://github.com/rbgsng/ML.GANs-CGANs/blob/main/03_CDCGAN_FASSION_MNIST.ipynb)" I had to make the Conditional Generative Adverserial Net from scratch and obtained this result:
 
-![MNIST Fashion Dataset](https://github.com/Jonashellevang/IE_MBD_2020/blob/master/GANs%20and%20CGANs%20(Tensorflow)/03_cdcgan_100Epochs.gif)
+![MNIST Fashion Dataset](https://github.com/rbgsng/ML.GANs-CGANs/blob/main/03_cdcgan_100Epochs.gif)
